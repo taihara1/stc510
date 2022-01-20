@@ -1,0 +1,24 @@
+Script started on Wed Jan 19 21:37:39 2022
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Tiffanys-MacBook-Air.local/Users/tiffanyaihara[0m[27m[24m[J(base) tiffanyaihara@Tiffanys-MacBook-Air ~ % [K[?2004hccd Desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Tiffanys-MacBook-Air.local/Users/tiffanyaihara/Desktop[0m[27m[24m[J(base) tiffanyaihara@Tiffanys-MacBook-Air Desktop % [K[?2004hlls[?2004l
+Japan 2019.mp4		log.tar			~$_Research_Final.docx
+Stuff			snapfish
+Tiffany			stc510
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Tiffanys-MacBook-Air.local/Users/tiffanyaihara/Desktop[0m[27m[24m[J(base) tiffanyaihara@Tiffanys-MacBook-Air Desktop % [K[?2004httar -xvzf tar   log.tar[?2004l
+x log.csv
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Tiffanys-MacBook-Air.local/Users/tiffanyaihara/Desktop[0m[27m[24m[J(base) tiffanyaihara@Tiffanys-MacBook-Air Desktop % [K[?2004hhhead n -n2 l log.csv[?2004l
+ip,date,time,zone,cik,accession,extention,code,size,idx,norefer,noagent,find,crawler,browser
+101.81.229.jeb,2017-06-27,00:00:00,0.0,83402.0,0000083402-97-000006,-index.html,200.0,7492.0,1.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Tiffanys-MacBook-Air.local/Users/tiffanyaihara/Desktop[0m[27m[24m[J(base) tiffanyaihara@Tiffanys-MacBook-Air Desktop % [K[?2004hggrep 'education.txt' log.sc  csv [K>>res  > > results.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Tiffanys-MacBook-Air.local/Users/tiffanyaihara/Desktop[0m[27m[24m[J(base) tiffanyaihara@Tiffanys-MacBook-Air Desktop % [K[?2004hlls[?2004l
+Japan 2019.mp4		log.csv			snapfish
+Stuff			log.tar			stc510
+Tiffany			results.txt		~$_Research_Final.docx
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Tiffanys-MacBook-Air.local/Users/tiffanyaihara/Desktop[0m[27m[24m[J(base) tiffanyaihara@Tiffanys-MacBook-Air Desktop % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Wed Jan 19 21:39:03 2022
