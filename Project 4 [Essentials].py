@@ -87,7 +87,7 @@ def check_keyword(post: 'post text', list_words: 'list of words'):
 # In[14]:
 
 
-posts = bs.find_all('div', class_='SslQJ _2tTSp') 
+posts = bs.findAll('div', class_='SslQJ _2tTSp') 
 keywords = ['fries', 'ingredients', 'recipe', 'healthy', 'good']
 final = {'Keyword': [], 'Post Title': [], 'Posted': []}
 count = 0
@@ -98,7 +98,7 @@ count = 0
 # In[15]:
 
 
-time = bs.find_all('time')
+time = bs.findAll('time')
 
 
 # In[16]:
